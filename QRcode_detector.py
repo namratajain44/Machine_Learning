@@ -52,3 +52,5 @@ if __name__ == "__main__":
 
     print("\nDecoded value from QR Code : ",retval2,"\n")
     messagebox.showinfo("Decoded QR code",retval2)
+
+    
