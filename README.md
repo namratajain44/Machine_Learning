@@ -1,2 +1,3 @@
 # Machine_Learning
-All applications related to machine learning, image processing and artificial intelligence
+This repo contains all applications developed by Namrata Jain, related to machine learning, image processing and artificial intelligence.
+The code is just to implement the core functionalities. This will be made user friendly as and when required.
