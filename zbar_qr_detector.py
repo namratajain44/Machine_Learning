@@ -52,7 +52,7 @@ if __name__ == '__main__':
   # Read image
   #im = cv2.imread('frame.png')
   #im = cv2.imread('zbar-location.png')
-  im = cv2.imread('frame_4.png')
+  im = cv2.imread('frame.png')
  
   decodedObjects = decode(im)
   #display(im, decodedObjects)
