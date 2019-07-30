@@ -20,7 +20,7 @@ def highlight_qr(code_img,points):
 if __name__ == "__main__":
     #read the image
     #qr_code_img = cv2.imread('frame.png')
-    qr_code_img = cv2.imread('frame_no_www.png')
+    qr_code_img = cv2.imread('frame.png')
     cv2.imshow("QR Code",qr_code_img)
     cv2.waitKey(0)
     #create object for QRCodeDetector
